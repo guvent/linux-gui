@@ -31,7 +31,7 @@ int yap(GtkApplication *app,int v)
 	gtk_window_set_default_size(w,200,200);	// boyutu ayarla
 
 
-	
+	/* Buradan Devam Ediyorsun... */ 
 	
 	gtk_container_add(w,bx); // box u pencereye çiz
 
